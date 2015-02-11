@@ -36,7 +36,6 @@ using System.Reflection;
 using System.Collections.Specialized;
 using System.Xml;
 using System.ComponentModel;
-
 using Mono.Addins.Description;
 
 namespace Mono.Addins.Database
